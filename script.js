@@ -77,8 +77,6 @@ const radio = {
     }
 
   }
-  
-
 
 let changeButton = document.querySelector('.btn')
 changeButton.addEventListener('click', radio.changeStation)
